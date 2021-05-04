@@ -6,7 +6,7 @@ function App() {
   return (
     
 
-<div class="form-group">
+<div>
     <Form/>
     
   </div>
